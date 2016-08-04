@@ -1,6 +1,8 @@
 # setup_nRF52_with_iPhone_5
 How to setup nRF52 and test it with iPhone 5
 
+The outcome will be a chat program via WIN10 <-> nRF52 <-> iPhone 5
+
 More detailed instruction can be found here: https://devzone.nordicsemi.com/tutorials/36/
 
 The instruction below are summary of the original instruction.
